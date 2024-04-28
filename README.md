@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Welcome to my portfolio website! My name is Maaz Khan, and I am currently a Computer Programming and Information Systems student at Farmingdale State College located in Farmingdale, New York. Thank you for taking the time to visit my website and learn more about my skills, work experience, and projects.
+### Welcome to my portfolio website! My name is Maaz Khan, and I am currently a Computer Programming and Information Systems student at Farmingdale State College. Thank you for taking the time to visit my website and learn more about my skills, work experience, and projects.
 
 
 
