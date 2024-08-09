@@ -1,6 +1,23 @@
-### Hi there 👋
+### Hi there, I am Maaz, a Software Engineer and third year computer science student👋, 
 
-### Welcome to my portfolio website! My name is Maaz Khan, and I am currently a Computer Science student at Farmingdale State College. Thank you for taking the time to visit my website and learn more about my skills, work experience, and projects.
+## Skills
+
+- **Programming Languages:**
+  - ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+  - ![Python](https://img.shields.io/badge/Python-%2339F1D.svg?&style=for-the-badge&logo=python&logoColor=white)
+
+- **Web Technologies:**
+  - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+
+- **Tools:**
+  - ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
+  - ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
+
+
+
 
 
 
