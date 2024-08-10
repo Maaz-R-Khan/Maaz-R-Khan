@@ -20,7 +20,7 @@
   - ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
  
 
-    - **Tools:**
+- **Tools:**
   - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white)
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
