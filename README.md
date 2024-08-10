@@ -3,16 +3,21 @@
 ## Skills
 
 - **Programming Languages:**
-  - ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?&style=for-the-badge&logo=javascript&logoColor=black), ![Python](https://img.shields.io/badge/Python-%2339F1D.svg?&style=for-the-badge&logo=python&logoColor=white)
-
-- **Web Technologies:**
   - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white),
     ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white),
-    ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+    ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white),
+    ![Python](https://img.shields.io/badge/Python-%2339F1D.svg?&style=for-the-badge&logo=python&logoColor=white)
+    
+https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
 
-- **Tools:**
-   ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black),
+- **Frameworks/Libraries:**
+  - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black),
     ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
+
+- **Databases:**
+   ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black),
+   
 
 
 
