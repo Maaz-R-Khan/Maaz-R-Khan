@@ -8,8 +8,7 @@
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?&style=for-the-badge&logo=javascript&logoColor=black)
     ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white),
     ![Python](https://img.shields.io/badge/Python-%2339F1D.svg?&style=for-the-badge&logo=python&logoColor=white)
-    
-https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
+    ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - **Frameworks/Libraries:**
   - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black),
