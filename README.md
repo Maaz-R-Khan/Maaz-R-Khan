@@ -13,6 +13,7 @@
 - **Frameworks/Libraries:**
   - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
     ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
+    ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
 - **Databases:**
    ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
