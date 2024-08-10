@@ -14,17 +14,25 @@
   - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
     ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
     ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+    
 
 - **Databases:**
   - ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
+ 
+
+    - **Tools:**
+  - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white)
+    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white)
+
    
 
 
 - **Operating Systems:**
   - ![macOS](https://img.shields.io/badge/macOS-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white)
-  - ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white)
-  - ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
-  - ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
+   ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white)
+   ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
+   ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 
 
 
