@@ -1,4 +1,4 @@
-### Hi there, I am Maaz, a Software Engineer and computer science student at Farmingdale State College👋. 
+### Hi there, I am Maaz, a Software Engineer and third year computer science student at Farmingdale State College👋. 
 
 ## Skills
 
