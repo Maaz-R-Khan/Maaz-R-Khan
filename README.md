@@ -1,5 +1,5 @@
 ### Hey there! I'm Maaz Khan 👋  
-I'm a Software Engineer and third-year Computer Science student at Farmingdale State College.
+I'm a Software Engineer and fourth-year Computer Science student at Farmingdale State College.
 
 🚀 Currently an SWE Intern at Cowan Consulting LC, where I'm building and refining full-stack features for real-world client applications using React, Firebase, and Stripe.
 
