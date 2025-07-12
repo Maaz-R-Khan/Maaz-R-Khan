@@ -12,7 +12,7 @@ I'm a Software Engineer and third-year Computer Science student at Farmingdale S
 🔍 I'm passionate about learning by doing—whether it's shipping features, experimenting with AI APIs, or taking on freelance dev work. I care about writing code that’s both functional and thoughtful.
 
 📬 Reach out:  
-- 📧 Email: [maazkhan.dev@gmail.com](mailto:maazkhan.dev@gmail.com)  
+- 📧 Email: [maazrk4@gmail.com](mailto:maazkhan.dev@gmail.com)  
 - 🌐 Website: [maazkhan.dev](https://maazkhan.dev)  
 - 💼 LinkedIn: [linkedin.com/in/maazk337](https://linkedin.com/in/maazk337)
 
