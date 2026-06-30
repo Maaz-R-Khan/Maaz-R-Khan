@@ -1,19 +1,13 @@
-### Hey there! I'm Maaz Khan 👋  
-I'm a Software Engineer and fourth-year Computer Science student at Farmingdale State College.
+### Hey there! I'm Maaz Khan 👋
 
-🚀 Formerly a SWE Intern at Cowan Consulting LC, where I'm built and refined full-stack features for real-world client applications using React, Firebase, and Stripe.
+I'm a Software Engineer and incoming M.S. Computer Science student (Data Science & Engineering) at Stony Brook University, with a B.S. in Computer Science from Farmingdale State College.
 
-🛠️ I've developed and deployed multiple projects—from a property management platform to an AI-powered productivity tool—focusing on clean UI, usability, and functional backends.
+🚀 Currently a SWE Intern at Raj Technologies, building a full-stack bid management dashboard with Django, MySQL, and Vite/React/TypeScript.
+🛠️ Previously interned at Hirani Engineering (AI-powered onboarding automation & AR agent) and Cowan Consulting (full-stack apps using React, Firebase, and Stripe).
+🧠 Built **Align AI**, an AI-powered resume optimizer and job matcher — won Best AI Use Award at a university hackathon.
+📚 My stack includes Python, JavaScript, Java, React, Node.js, and Firebase. I enjoy shipping real features, experimenting with AI APIs, and writing code that's both functional and thoughtful.
 
-🧠 I’m actively sharpening my JavaScript fundamentals and diving deeper into Firebase, React, and full-stack development through real-world work and personal projects like **Align AI**, a job search assistant powered by GPT.
-
-📚 My tech stack includes JavaScript, Java, React, Node.js, Firebase, and more. I also enjoy learning new technologies, building polished UIs, and solving user-centric problems.
-
-🔍 I'm passionate about learning by doing—whether it's shipping features, experimenting with AI APIs, or taking on freelance dev work. I care about writing code that’s both functional and thoughtful.
-
-📬 Reach out:  
-- 📧 Email: [maazrk4@gmail.com](mailto:maazkhan.dev@gmail.com)  
-- 🌐 Website: [maazkhan.dev](https://maazkhan.dev)  
+📬 Reach out:
+- 📧 Email: [maazrk4@gmail.com](mailto:maazrk4@gmail.com)
+- 🌐 Website: [maazkhan.dev](https://maazkhan.dev)
 - 💼 LinkedIn: [linkedin.com/in/maazk337](https://linkedin.com/in/maazk337)
-
----
